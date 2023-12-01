@@ -1,0 +1,19 @@
+
+1. Data ingestion : The aggregatedatafrombroker' method reads the data from the broker files using the method.
+
+2. data normalisation : parses and normalizes the data obtained from the files conrting it into insuranc policy objects.
+
+3. data aggregation : the normalisation of 'insurance policy' objects are added to the aggregation list.
+
+4. basic repoting the generatteinsights method calculates and prints insights based on the aggregateed
+policys such as the total numbers of policys,average premum.you can implement this method as per your repoting requirments.
+
+5.Unit Testing: 
+
+
+steps to run this code.
+
+1. Set up the development enironment.
+2.Add JUnit dependency.
+3. and code and tests files.  
+
